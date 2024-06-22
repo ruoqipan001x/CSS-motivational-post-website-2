@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    font-family:"Libre Baskerville", serif;
+    text-transform: uppercase;
+}
+p {
+    color:white
+}
+#first {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  text-align: center;
+}
+.sydney {
+  border: 5px solid white;
+  width: 100%;
+}
